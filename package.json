@@ -1,0 +1,22 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "webscraping"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "get-urls": "^10.0.0",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.5.0"
+  }
+}
